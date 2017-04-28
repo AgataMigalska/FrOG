@@ -11,21 +11,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A782148A-EB38-4847-A7E5-196E038C416C}.Debug|Any CPU.ActiveCfg = Release|Any CPU
-		{A782148A-EB38-4847-A7E5-196E038C416C}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{A782148A-EB38-4847-A7E5-196E038C416C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A782148A-EB38-4847-A7E5-196E038C416C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A782148A-EB38-4847-A7E5-196E038C416C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A782148A-EB38-4847-A7E5-196E038C416C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 2
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://surrogatemodelbasedoptimization.visualstudio.com/defaultcollection
-		SccProjectUniqueName0 = FrOG\\FrOG.csproj
-		SccProjectName0 = FrOG
-		SccLocalPath0 = FrOG
-		SccLocalPath1 = .
 	EndGlobalSection
 EndGlobal

@@ -35,15 +35,15 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="GalapagosLibrary">
-      <HintPath>D:\Dropbox\Opossum_Development\Ressources\GalapagosLibrary.dll</HintPath>
+      <HintPath>..\..\..\Grasshopper\installers\aaaa\GalapagosLibrary.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="GH_IO">
-      <HintPath>D:\Dropbox\Opossum_Development\Ressources\GH_IO.dll</HintPath>
+      <HintPath>..\..\..\Grasshopper\installers\aaaa\GH_IO.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Grasshopper">
-      <HintPath>D:\Dropbox\Opossum_Development\Ressources\Grasshopper.dll</HintPath>
+      <HintPath>..\..\..\Grasshopper\installers\aaaa\Grasshopper.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="PresentationCore" />
